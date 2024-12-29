@@ -1,0 +1,59 @@
+
+{/*Main Content*/}
+<div className="max-w-6xl text-[#1a2e44] mx-auto px-4 lg:px-8 mt-8 flex flex-col lg:flex-row">
+    {/* Table of Contents */}
+    <aside className="lg:w-1/4 mb-8 lg:mb-0 lg:pr-8">
+        <div className="bg-white p-4 rounded-lg shadow-md">
+            <h2 className="text-xl font-semibold mb-4">Table of Contents</h2>
+            <ul className="list-disc space-y-2 ml-4 text-gray-700">
+                <li>
+                    <a href="#section1" className="hover:text-blue-600">
+                        Do you really need an SMTP server?
+                    </a>
+                </li>
+                <li>
+                    <a href="#section2" className="hover:text-blue-600">
+                        Pros and cons of a local SMTP server
+                    </a>
+                </li>
+                <li>
+                    <a href="#section3" className="hover:text-blue-600">
+                        Quick SMTP server setup
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </aside>
+
+    {/* Blog Content */}
+    <article className="lg:w-3/4 bg-white p-6 rounded-lg shadow-md">
+        <section id="section1" className="mb-6">
+            <h2 className="text-2xl font-bold mb-4">Do you really need an SMTP server?</h2>
+            <p className="text-gray-700 leading-relaxed">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit
+                nibh in egestas fringilla. Maecenas at mauris vitae tellus fermentum
+                pulvinar.
+            </p>
+        </section>
+
+        <section id="section2" className="mb-6">
+            <h2 className="text-2xl font-bold mb-4">Pros and cons of a local SMTP server</h2>
+            <p className="text-gray-700 leading-relaxed">
+                Nullam auctor suscipit elit, a faucibus est. Integer at mauris quam. In
+                hac habitasse platea dictumst. Phasellus sit amet lacus justo.
+            </p>
+        </section>
+
+        <section id="section3" className="mb-6">
+            <h2 className="text-2xl font-bold mb-4">Quick SMTP server setup</h2>
+            <p className="text-gray-700 leading-relaxed">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit
+                nibh in egestas fringilla. Maecenas at mauris vitae tellus fermentum
+                pulvinar.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam explicabo, officia voluptas sed a impedit esse rerum laborum obcaecati modi omnis aut eius, consectetur ut vel deleniti neque maiores fuga aliquam praesentium repellendus, saepe quis beatae. Deserunt, aspernatur? Deserunt iure voluptate excepturi suscipit dolor. Numquam doloremque pariatur soluta, totam excepturi voluptatem voluptas voluptatum deleniti fugit rem quaerat accusantium aliquid sapiente neque, placeat voluptate laboriosam eveniet? Nam tempora modi sapiente repellat cumque accusantium laboriosam inventore beatae optio impedit atque amet provident commodi velit unde, culpa suscipit facilis alias reiciendis illum ea. Quas ipsa nostrum, doloremque fugit odio cum reprehenderit blanditiis quos id quia numquam nisi assumenda eaque totam delectus esse? Sequi iusto vero enim, ea, officiis facere neque praesentium quia quae quas reiciendis a commodi porro. Magnam delectus illo officia ea. Quasi enim incidunt doloribus? Eaque quo odio accusantium dolorem nostrum debitis aut nobis facere error dolores fuga, suscipit, in ex optio deleniti nulla voluptatem sit minus aliquam accusamus. Dolore, quia. Cupiditate illum aut qui asperiores delectus maiores ut ratione unde, eos ipsa rem rerum, doloribus amet alias sunt totam! Aperiam, dicta delectus ad distinctio ullam illum saepe necessitatibus expedita laboriosam excepturi commodi! Molestiae doloremque vero a, quam veniam eveniet temporibus.
+            </p>
+        </section>
+    </article>
+</div>
+
+*/}
